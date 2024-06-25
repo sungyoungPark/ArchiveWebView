@@ -1,0 +1,6 @@
+framework module ArchiveWebView {
+  umbrella header "ArchiveWebView-umbrella.h"
+
+  export *
+  module * { export * }
+}

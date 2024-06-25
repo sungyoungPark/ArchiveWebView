@@ -1,0 +1,6 @@
+framework module Pods_ArchiveWebView_Example {
+  umbrella header "Pods-ArchiveWebView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

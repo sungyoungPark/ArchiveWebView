@@ -1,0 +1,16 @@
+PODS:
+  - ArchiveWebView (0.1.0)
+
+DEPENDENCIES:
+  - ArchiveWebView (from `../`)
+
+EXTERNAL SOURCES:
+  ArchiveWebView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ArchiveWebView: 16c27b4c40ef13a96f9028b639102938aa7ce1a8
+
+PODFILE CHECKSUM: fc7489aa1e35440fb5a6ea4c2824c454c15a52ba
+
+COCOAPODS: 1.15.2
