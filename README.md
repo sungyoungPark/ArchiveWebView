@@ -1,6 +1,6 @@
 # ArchiveWebView
 
-[![CI Status](https://img.shields.io/travis/sungyoungPark/ArchiveWebView.svg?style=flat)](https://travis-ci.org/sungyoungPark/ArchiveWebView)
+<!-- [![CI Status](https://img.shields.io/travis/sungyoungPark/ArchiveWebView.svg?style=flat)](https://travis-ci.org/sungyoungPark/ArchiveWebView) -->
 [![Version](https://img.shields.io/cocoapods/v/ArchiveWebView.svg?style=flat)](https://cocoapods.org/pods/ArchiveWebView)
 [![License](https://img.shields.io/cocoapods/l/ArchiveWebView.svg?style=flat)](https://cocoapods.org/pods/ArchiveWebView)
 [![Platform](https://img.shields.io/cocoapods/p/ArchiveWebView.svg?style=flat)](https://cocoapods.org/pods/ArchiveWebView)
