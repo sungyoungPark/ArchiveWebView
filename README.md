@@ -11,7 +11,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Explain
 
-웹뷰 로드 시, 웹뷰 파일 아카이빙을 통해 재호출시 파일 로드를 통하여 웹뷰에 속도를 개선한 뷰
+웹뷰 로드 시, 파일 아카이빙을 통해 재호출 시 loadFileURL을 통하여 웹뷰에 속도를 개선한 웹뷰
 
 ## Installation
 
