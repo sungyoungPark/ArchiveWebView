@@ -26,8 +26,8 @@ pod "ArchiveWebView", :git => 'https://github.com/sungyoungPark/ArchiveWebView.g
 
 sungyoungPark, sygitter1491012@gmail.com
 
-<!-- 
+ 
 ## License
 
 ArchiveWebView is available under the MIT license. See the LICENSE file for more info.
--->
+
