@@ -9,7 +9,9 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
+## Explain
+
+웹뷰 로드 시, 웹뷰 파일 아카이빙을 통해 재호출시 파일 로드를 통하여 웹뷰에 속도를 개선한 뷰
 
 ## Installation
 
