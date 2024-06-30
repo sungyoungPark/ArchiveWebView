@@ -15,10 +15,12 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 <div>
 <figure> 
-<img src="appImageSrc/downImg.png" width="310" height="102">
+<img src="appImgSrc/downImg.png" width="310" height="102">
 <figcaption>⬅︎ 앱 실행 후, 생긴 웹뷰 아카이브 파일</figcaption>
 </figure>
 </div>
+
+아카이브 파일이 생긴 후, 웹뷰 로드시 파일을 로드하여 웹뷰 호출 속도를 높여준다.
 
 ## Installation
 
